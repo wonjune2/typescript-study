@@ -4,7 +4,7 @@ enum Class {
   Paper,
 }
 
-enum Class {
+enum Class2 {
   Rock2 = 0,
   Scissors2 = 100 + 1,
   Paper2,
