@@ -33,5 +33,3 @@ type NamedVariable = (Input | Output) & { name: string };
 type Res = {
   test: string | number;
 };
-
-interface testInterface extends NamedVariable {}
